@@ -17,7 +17,8 @@ const appRoutes: Routes = [
   declarations: [
     AppComponent,
     Login1Component,
-    LoginComponent
+    LoginComponent,
+    AppComponent
   ],
   imports: [
     BrowserModule,
