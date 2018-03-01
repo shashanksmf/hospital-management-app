@@ -79,7 +79,7 @@ input {
 }
 
 .password-icon-style {
-  left: -254px !important;
+  left: -233px !important;
 }
 
 .divider {
@@ -129,7 +129,7 @@ p {
   color: #fff;
   width: 100%;
   text-align: center;
-  font-size: 14px;
+  font-size: 18px;
   font-family: 'Ubuntu';
   margin-top: 20px;
 }
@@ -210,7 +210,7 @@ input {
   border-radius: 5px;
   border-bottom: 1px solid #646c72;
   outline: 0;
-  padding-left: 70px;
+  padding-left: 30px;
   font-family: 'Ubuntu';
   color: #fff;
   margin-bottom: 25px;
@@ -222,7 +222,7 @@ input {
 
 .icon {
   position: absolute;
-  left: 20px;
+  left: 0;
   padding: 5px 0;
   top: -4px;
   height: 20px;
