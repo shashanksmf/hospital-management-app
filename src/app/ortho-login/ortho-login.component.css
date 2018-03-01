@@ -1,6 +1,6 @@
 .logo {
   height: 8rem;
-  margin-top: 90px;
+  margin-top: 30px;
 }
 
 .footer-logo {
@@ -165,7 +165,7 @@ span.password-icon-style.icon.password-icon.fontawesome-lock {
   /* background:url('assets/images/back.png'); */
   height: 320px;
   position: absolute;
-  top: 4rem;
+  top: 3rem;
   left: 0;
   bottom: 0;
   right: 0;
@@ -267,8 +267,4 @@ span.input:after {
 
 .border-color:after {
   border-color: #e76744 !important;
-}
-
-.body {
-
 }
