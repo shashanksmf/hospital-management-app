@@ -8,18 +8,21 @@ import { AppComponent } from './app.component';
 import { Login1Component } from './login1/login1.component';
 import { LoginComponent } from './login/login.component';
 import { HomeComponent } from './home/home.component';
+import { OrthoLoginComponent } from './ortho-login/ortho-login.component';
 
 const appRoutes: Routes = [
   { path: 'home', component: AppComponent },
   { path: 'login', component: Login1Component },
   { path: 'login2', component: LoginComponent },
+  { path: 'orthoLogin', component: OrthoLoginComponent },
 ]
 @NgModule({
   declarations: [
     AppComponent,
     Login1Component,
     LoginComponent,
-    HomeComponent
+    HomeComponent,
+    OrthoLoginComponent
   ],
   imports: [
     BrowserModule,
